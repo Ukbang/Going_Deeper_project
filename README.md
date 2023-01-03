@@ -1,8 +1,8 @@
 # Going_Deeper_project
 ---
 # 목차
-|Index|프로젝트 제목|링크|
-|------|---|---|
+$$|Index|프로젝트 제목|링크|$$
+$$|------|---|---|$$
 $$|1|멋진 단어사진 만들기|[링크](https://github.com/Ukbang/Going_Deeper_project/blob/main/%5BGD-01%5D_languege_processing_fin.ipynb)|$$
 $$|2|뉴스 카테고리 다중분류|[링크](https://github.com/Ukbang/Going_Deeper_project/blob/main/%5BGD-02%5D_reuters_news_fin.ipynb)|$$
 $$|3|모든 장르 간 편향성 측정해 보기|[링크](https://github.com/Ukbang/Going_Deeper_project/blob/main/%5BGD-03%5D_WEAT_Score.ipynb)|$$
