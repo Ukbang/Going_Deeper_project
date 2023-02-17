@@ -1,6 +1,6 @@
-# Going_Deeper_project
----
-# 목차
+# <p align='center'> Aiffel Going Deeper project </p>
+
+# <p align='center'> 목차 </p>
 |Index|프로젝트 제목|루브릭 평가 지표|바로 가기|
 |:---:|:---:|:---:|:---:|
 |1|멋진 단어사진 만들기|:star::star::star:|[링크](https://github.com/Ukbang/Going_Deeper_project/blob/main/%5BGD-01%5D_languege_processing_fin.ipynb)|
